@@ -1,0 +1,10 @@
+C:\MOI RABOTI\C#proekti\Diplomna\Diplomen proekt\bin\Debug\Diplomen proekt.exe.config
+C:\MOI RABOTI\C#proekti\Diplomna\Diplomen proekt\bin\Debug\Diplomen proekt.exe
+C:\MOI RABOTI\C#proekti\Diplomna\Diplomen proekt\bin\Debug\Diplomen proekt.pdb
+C:\MOI RABOTI\C#proekti\Diplomna\Diplomen proekt\obj\Debug\Diplomen proekt.csprojResolveAssemblyReference.cache
+C:\MOI RABOTI\C#proekti\Diplomna\Diplomen proekt\obj\Debug\Diplomen_proekt.Form1.resources
+C:\MOI RABOTI\C#proekti\Diplomna\Diplomen proekt\obj\Debug\Diplomen_proekt.Properties.Resources.resources
+C:\MOI RABOTI\C#proekti\Diplomna\Diplomen proekt\obj\Debug\Diplomen proekt.csproj.GenerateResource.Cache
+C:\MOI RABOTI\C#proekti\Diplomna\Diplomen proekt\obj\Debug\Diplomen proekt.exe
+C:\MOI RABOTI\C#proekti\Diplomna\Diplomen proekt\obj\Debug\Diplomen proekt.pdb
+C:\MOI RABOTI\C#proekti\Diplomna\Diplomen proekt\obj\Debug\Diplomen_proekt.Resources.Resource1.resources
